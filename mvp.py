@@ -7,7 +7,7 @@ import time
 st.set_page_config(page_title="HAB Forecaster MVP", page_icon="🌊", layout="wide")
 
 # --- Header ---
-st.title("🌊 Spatiotemporal HAB Forecaster (MVP)")
+st.title(" Spatiotemporal HAB Forecaster (MVP)")
 st.markdown("**Status:** `Beta Prototyping` | **Backend:** `Synthetic Data (Pending NASA/NOAA API Integration)`")
 st.markdown("---")
 
